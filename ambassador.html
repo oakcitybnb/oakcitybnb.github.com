@@ -1,0 +1,18 @@
+<html>
+    <head>
+        <script src="https://cdnjs.cloudflare.com/ajax/libs/showdown/1.9.0/showdown.min.js"></script>
+        <script src="convert-render.js"></script>
+    </head>
+    <body>
+        <div id="content"></div>
+        <script>
+            window.addEventListener('load', function() { 
+                fetchConvert('ambassador.md')
+                    .then(function(html) {
+                        let el = document.getElementById('content');
+                        el.innerHTML = html;
+                    });
+            }) 
+        </script>
+    </body>
+</html>
