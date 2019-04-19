@@ -11,36 +11,23 @@ Great place for breakfast or afternoon coffee. In the Historic Oakwood neighborh
 #### [Gringo A Go Go](http://gringoraleigh.com/)
 Authentic Mexican food. Great tacos, friendly to meat lovers and vegetarians.
 
-‍
-
-Oakwood Cafe
-
+#### [Oakwood Cafe](https://www.get-offline.com/inspiration/spice-up-your-life-at-oakwood-cafe)
 Cuban and Argentinian food. Great cuban sandwiches and Argentinian meats and empanadas.
 
-‍
-
-Oakwood Dog Park
-
+#### [Oakwood Dog Park](https://www.get-offline.com/inspiration/treat-your-pooches-to-the-oakwood-dog-park)
 Well maintained park for your pooch. Open from sunrise to sunset.
 
-‍
-
-Historic Oakwood Cemetery
-
+#### [Historic Oakwood Cemetery](https://www.get-offline.com/inspiration/stroll-through-historic-oakwood-cemetery)
 Perfect place for a walk or to just clear your head. One of the most beautiful spots in Raleigh.
 
-Around Downtown Raleigh
+
+## Around Downtown Raleigh
 Most of these places are within a 20 minute walk or a 5 minute drive.
 
-‍
-
-Brewery Bhavana
-
+#### [Brewery Bhavana](https://brewerybhavana.com/)
 Named one of America’s best new restaurants of 2017. An amazing combination of flowers, books, beer and dim sum.
 
-‍
-
-Whiskey Kitchen
+#### [Whiskey Kitchen](http://www.whiskey.kitchen/)
 
 Top notch Scotch, bourbon and other specialty whiskeys. Lofty bar and beautiful patio.
 
