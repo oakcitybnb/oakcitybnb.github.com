@@ -4,11 +4,11 @@
 ## Walking distance from the house
 These places are within a 10 minute walk or less.
 
-### [Brewerks Cafe & Bakery](https://www.get-offline.com/inspiration/rise-shine-at-brewerks)
+#### [Brewerks Cafe & Bakery](https://www.get-offline.com/inspiration/rise-shine-at-brewerks)
 Great place for breakfast or afternoon coffee. In the Historic Oakwood neighborhood. Opens at 7am.
 
 
-### [Gringo A Go Go](http://gringoraleigh.com/)
+#### [Gringo A Go Go](http://gringoraleigh.com/)
 Authentic Mexican food. Great tacos, friendly to meat lovers and vegetarians.
 
 ‍
