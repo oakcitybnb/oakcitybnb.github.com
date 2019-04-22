@@ -48,7 +48,6 @@ Cool underground bar, great cocktails.
 - Chuck's
 - Beasley's Chicken + Honey
 - North Carolina Museum of Natural Science
-- bu•ku
 - MOFU Shoppe
 
 ---

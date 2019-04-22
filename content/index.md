@@ -1,0 +1,2 @@
+- [Ambassador Recommendations](ambassador)
+- [Mordecai Recommendations](mordecai)

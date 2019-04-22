@@ -15,30 +15,22 @@
     <link rel="stylesheet" href="https://stackpath.bootstrapcdn.com/bootstrap/4.3.1/css/bootstrap.min.css"
         integrity="sha384-ggOyR0iXCbMQv3Xipma34MD+dH/1fQ784/j6cY/iJTQUOhcWr7x9JvoRxT2MZw1T" crossorigin="anonymous">
 
+    <link rel="stylesheet" href="main.css">
+
     <style>
         .jumbotron {
             background-image: url("807Edenton001.small.jpg");
-            background-size: cover;
-            color: white;
-            box-shadow:inset 0 0 0 2000px rgba(0,0,0,0.5);
-        }
-        .jumbotron h1 {
-            font-size: 2.6rem;
         }
     </style>
 
     <script src="https://cdnjs.cloudflare.com/ajax/libs/showdown/1.9.0/showdown.min.js"></script>
-    <script src="convert-render.js"></script>
+    <script src="main.js"></script>
 
     <title>Juliana's Recommendations</title>
 </head>
 
 <body>
-    <div class="jumbotron jumbotron-fluid">
-        <div class="container">
-            <h1 class="display-4">Juliana's Recommendations</h1>
-            <p class="lead">These are the places I recommend during your stay at our home. I hope you like them!</p>
-        </div>
+    <div id="jumbotron-shell">
     </div>
     <div class="container">
         <div class="row">
@@ -49,12 +41,9 @@
 
     <script>
         window.addEventListener('load', function () {
-            fetchConvert('ambassador.md')
-                .then(function (html) {
-                    let el = document.getElementById('content');
-                    el.innerHTML = html;
-                });
-        }) 
+            loadJumbotron();
+            loadContent('content/ambassador.md');
+        });
     </script>
 </body>
 
